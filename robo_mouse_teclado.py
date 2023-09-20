@@ -23,3 +23,7 @@ pyautogui.write('FAZ O L')
 sleep(1)
 
 # pyautogui.press('enter')
+
+
+
+
